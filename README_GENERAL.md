@@ -1,4 +1,4 @@
-# Prueba Técnica – Zelda
+# Prueba Técnica 
 
 ## Contenido
 - **Ejercicio 1:** Prueba E2E en SauceDemo con Playwright (`ejercicio1_saucedemo_playwright/`)
